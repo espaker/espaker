@@ -6,6 +6,8 @@ Minha curva de aprendizado é acelerada porque entendo sistemas no **nível do p
 
 Já integrei nativamente com o protocolo **AMI do Asterisk**, a **API não-oficial do WhatsApp (Baileys)**, stacks de telefonia **SIP/PJSIP**, a **API da OpenAI**, a plataforma **Genesys Cloud**, o framework **KDE Plasma 6 com QML** e **APIs proprietárias de PABX via protocolo TCP** — tudo a partir da documentação oficial, sem curso, sem tutorial.
 
+Sou **usuário avançado de Linux** desde o fim de 2013 — passei por diversas distribuições ao longo dos anos e hoje uso **Fedora com KDE Plasma** como ambiente principal: moderno, atualizado e com o ambiente de desktop que mais me agrada. Esse histórico longo com Linux vai muito além do uso casual — é parte do meu dia a dia de desenvolvimento, servidores, scripts e configuração de ambiente.
+
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -62,6 +64,14 @@ Já implementei componentes complexos como softphones SIP, dashboards de monitor
 
 ---
 
+### Linux
+
+Usuário avançado de Linux desde o **fim de 2013** — mais de 10 anos de uso contínuo, passando por diversas distribuições ao longo dos anos. Hoje uso **Fedora com KDE Plasma** como ambiente principal: prefiro Fedora pela praticidade, pelo ciclo de atualizações moderno e pelo compromisso com tecnologias recentes; e o KDE por ser o ambiente de desktop mais completo e personalizável disponível no Linux.
+
+Esse histórico vai muito além do uso casual: envolve configuração de servidores, provisionamento de ambientes, shell scripting, gerenciamento de pacotes, permissões, firewall, systemd, montagem de partições, integração ODBC, configuração de drivers e desenvolvimento do dia a dia.
+
+---
+
 ### Desktop
 
 Desenvolvo aplicações **multiplataforma** com **Electron + Vite + React + TypeScript**, distribuídas como instalador **NSIS para Windows** e **AppImage para Linux** via `electron-builder`. Tenho atenção a detalhes de integração com o sistema operacional — como definir `WM_CLASS` no X11 e `app_id` no Wayland para que o KDE Plasma reconheça o ícone corretamente no taskbar.
@@ -108,6 +118,6 @@ Não espero que exista um curso sobre o que preciso. Leio a documentação ofici
 | **Bancos de Dados** | MySQL/MariaDB · PostgreSQL · MongoDB · Redis · SQLite |
 | **Telecom** | Asterisk · SIP/PJSIP · AMI · AGI · JsSIP · DTMF · CDR/CEL · ODBC |
 | **IA & Integrações** | OpenAI API · Whisper · Azure Cognitive Services · Baileys · Genesys Cloud · FFmpeg · Telegram Bot API |
-| **DevOps** | Docker · Nginx · Linux (RHEL/Rocky) · Shell Script · Vercel · GitHub Releases |
+| **DevOps** | Docker · Nginx · Linux (RHEL/Rocky/Fedora) · Shell Script · Vercel · GitHub Releases |
 | **Desktop** | Electron · KDE Plasma 6 · QML |
 | **Tooling** | pnpm · ESLint · Prettier · Swagger/OpenAPI · AsyncAPI · pkg · nexe · electron-builder |
