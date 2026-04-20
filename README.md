@@ -26,6 +26,8 @@ Trabalho com **ORM e query builders** — **Knex.js** (com sistema de migrations
 
 Para comunicação em tempo real, projeto arquiteturas **event-driven** com **Socket.IO**, **EventEmitter** nativo e padrões de `Proxy` reativo para propagar mudanças de estado de forma eficiente e completamente desacoplada — sem polling, sem redundância de dados.
 
+Tenho experiência também com a **Telegram Bot API** — construção de bots conversacionais com fluxos baseados em reply-to-message, teclados dinâmicos (`ReplyKeyboardMarkup`, `force_reply`), roteamento por regex de comandos e persistência de dados estruturados em MySQL via Knex.js. Formatação de moeda nativa com `Intl.NumberFormat` sem dependências externas.
+
 ---
 
 ### Telefonia e Telecomunicações
@@ -105,7 +107,7 @@ Não espero que exista um curso sobre o que preciso. Leio a documentação ofici
 | **Frontend** | React 18 · Vite · Ant Design · MUI · Redux · Zustand · React Query · ReactFlow |
 | **Bancos de Dados** | MySQL/MariaDB · PostgreSQL · MongoDB · Redis · SQLite |
 | **Telecom** | Asterisk · SIP/PJSIP · AMI · AGI · JsSIP · DTMF · CDR/CEL · ODBC |
-| **IA & Integrações** | OpenAI API · Whisper · Azure Cognitive Services · Baileys · Genesys Cloud · FFmpeg |
+| **IA & Integrações** | OpenAI API · Whisper · Azure Cognitive Services · Baileys · Genesys Cloud · FFmpeg · Telegram Bot API |
 | **DevOps** | Docker · Nginx · Linux (RHEL/Rocky) · Shell Script · Vercel · GitHub Releases |
 | **Desktop** | Electron · KDE Plasma 6 · QML |
 | **Tooling** | pnpm · ESLint · Prettier · Swagger/OpenAPI · AsyncAPI · pkg · nexe · electron-builder |
